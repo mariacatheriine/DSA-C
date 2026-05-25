@@ -73,6 +73,5 @@ int main(){
         sortstack(&s);
         printf("\nsorted stack:\n");
         display(&s);
-        return 0;
-    
+        return 0;   
 }
